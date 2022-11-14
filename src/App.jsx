@@ -13,7 +13,7 @@ function App() {
 				Increment
 			</button>
 			<button type="button" onClick={() => dispatch(decrement())}>
-				Decrement
+				Decrementt
 			</button>
 			<input type="text" value={myState} />
 		</div>
